@@ -6,4 +6,5 @@ function test1() {
 
 function test2() {
   console.log("test by db");
+  console.log("test2 is editted by zs");
 }
