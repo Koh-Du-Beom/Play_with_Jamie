@@ -1,5 +1,6 @@
 function test1() {
-  console.log("test by kimjiseong");
+  console.log("test by Koh-Du-Beom");
+  console.log("edited by koh");
 }
 
 function test2() {
