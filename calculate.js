@@ -1,7 +1,7 @@
-function test1(){
-	console.log('test by zs');
+function test1() {
+  console.log("test by kimjiseong");
 }
 
-function test2(){
-	console.log('test by db');
+function test2() {
+  console.log("test by db");
 }
